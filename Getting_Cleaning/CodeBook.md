@@ -4,7 +4,7 @@ This code book shows the data structure of 'tidy.txt' file. This file is returne
 
 ## Descriptions of the measurements
 
-In 'tidy.txt' file, the columns represent measurements on the mean and standard deviation for each measurement of the raw data of Human Activity Recognition Using Smartphones Dataset.   
+In 'tidy.txt' file, the columns represent measurements on the mean and standard deviation for each measurement of the raw data of Human Activity Recognition Using Smartphones Dataset. Acceleration measurements (Acc) are expresed in standard gravity units 'g' and the angular velocity vectors (gyro) are in radians/second.
 
 * "tBodyAcc-mean()-X" 
 * "tBodyAcc-mean()-Y"
